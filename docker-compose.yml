@@ -20,8 +20,8 @@ hubot:
   image: rocketchat/hubot-rocketchat:v0.1.4
   environment:
     - ROCKETCHAT_URL=192.168.1.180:3000
-    - ROCKETCHAT_ROOM=ASIX
-    - ROCKETCHAT_USER=javi
+    - ROCKETCHAT_ROOM=ROOM
+    - ROCKETCHAT_USER=usuario
     - ROCKETCHAT_PASSWORD=12345678
     - BOT_NAME=PROFE
     - EXTERNAL_SCRIPTS=hubot-help,hubot-seen,hubot-links,hubot-greetings
