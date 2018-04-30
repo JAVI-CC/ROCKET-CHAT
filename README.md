@@ -1,5 +1,5 @@
 # ROCKET-CHAT
-Servidor web rocket-chat conectado a la base de datos mongo 
+Rocket-chat web server connected to the mongo database
 
 # USAGE
 docker-compose up
